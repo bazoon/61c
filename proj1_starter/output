@@ -1,0 +1,13 @@
+.text
+012a4021
+11280010
+00802021
+00a52021
+08000004
+
+.symbol
+16	target
+4	second
+
+.relocation
+4	second

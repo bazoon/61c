@@ -1,0 +1,5 @@
+addu $t0 $t1 $t2
+beq $t0 $t1 target
+addu $a0 $a0 $zero
+addu $a0 $a1 $a1
+j second
